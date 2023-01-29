@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Ahana Akhter, Working since 2019.
 #### I am Front-end Developer 
-![I am Front-end Developer ]([https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif))
+![I am Front-end Developer ]([https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif]([https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)))
 
 Welcome to my profile. I'm Ahana Akhter.
 I have 3+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
