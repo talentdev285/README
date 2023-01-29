@@ -1,90 +1,54 @@
-<div align="center">
-<img src="https://i.gifer.com/CScu.gif" align="center" style="width: 100%" />
-</div>  
-  
+### Hi there 👋, This is Ahana Akhter, Working since 2019.
+#### I am Front-end Developer 
+![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
 
-### <div align="center">I'm Ahana Akhter, a Front-End Developer, freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
+Welcome to my profile. I'm Ahana Akhter.
+I have 3+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
 
-- 🔭 I’m currently working on [Making Website with one of my Client]  
-  
+Strategy - The best start of a project is planning of scope of work. It's okay to create a list of Technical Tasks for a small project. However, large enterprise systems require a well-grounded specification from a professional business analyst or I can help with this.
 
-- 🌱 I’m currently learning React.js  
-  
+I've perfectly mastered a number of technologies such as:
+💡 HTML / CSS
+💡 JavaScript
+💡 React.js
+💡 WordPress
+💡 Wix
+💡 Material UI
+💡 Bootstrap 5
+💡 PSD to HTML / Sketch to HTML / Figma to HTML
 
-- ❓ Ask me about anything related to frontend related technologies  
-  
+What to expect:
+✔ High-quality clean code and design
+✔ Responsiveness / Mobile-first development / Pixel-perfect development
+✔ Cross Browser compatibility (chrome, firefox)
+✔ Fast delivery
+✔ Ongoing support and availability
+✔ Immediate communication
 
-<br/>  
+Skills: HTML / CSS / JavaScript / React.js / Wix / WordPress / Figma /
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React.js 
+- 👯 I’m looking to collaborate on email, GitHub, LinkedIn 
+- 🤔 I’m looking for help with new role. 
+- 📫 How to reach me: talentdev285@gmail.com
+- 😄 Pronouns: She 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talentdev285)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahana-akhter-85ab31263/) 
 
-</td><td valign="top" width="33%">
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonoTech71)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev285)](https://github.com/anuraghazra/github-readme-stats)
 
-</td></tr></table>  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonoTech71&show_icons=true&count_private=true)  
 
-<br/>  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talentdev285)  
 
+![GitHub metrics](https://metrics.lecoq.io/talentdev285)  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/talentdev285" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ahana-akhter-85ab31263" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=talentdev285)  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=talentdev285&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=talentdev285&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views](https://gpvc.arturio.dev/talentdev285)  
