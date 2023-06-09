@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, I'm Most Murshida Khatun</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh. Working since 2019.</h3>
 
-### Hi there 👋, This is Most Murshida Khatun, Working since 2019.
-#### I am Front-end Developer 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
 
 Welcome to my profile. I'm Ahana Akhter.
