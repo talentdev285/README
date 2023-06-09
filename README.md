@@ -1,6 +1,36 @@
 <h1 align="center">Hello👋, I'm Most Murshida Khatun</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
+### Hi there 👋, This is Most Murshida Khatun, Working since 2019.
+#### I am Front-end Developer 
+![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
+
+Welcome to my profile. I'm Ahana Akhter.
+I have 3+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
+
+Strategy - The best start of a project is planning of scope of work. It's okay to create a list of Technical Tasks for a small project. However, large enterprise systems require a well-grounded specification from a professional business analyst or I can help with this.
+
+I've perfectly mastered a number of technologies such as:
+💡 HTML / CSS
+💡 JavaScript
+💡 React.js
+💡 Next.js with Prisma
+💡 WordPress
+💡 Webflow
+💡 TailwindCSS
+💡 Bootstrap 5
+💡 PSD to HTML / Sketch to HTML / Figma to HTML
+
+What to expect:
+✔ High-quality clean code and design
+✔ Responsiveness / Mobile-first development / Pixel-perfect development
+✔ Cross Browser compatibility (chrome, firefox)
+✔ Fast delivery
+✔ Ongoing support and availability
+✔ Immediate communication
+
+Skills: HTML / CSS / JavaScript / React.js / Next.js / Prisma / Webflow / Wix / WordPress / Figma /
+
 - 🌱 I’m currently learning **NextJS & Prisma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/talentdev285](https://github.com/talentdev285)
