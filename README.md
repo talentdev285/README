@@ -1,4 +1,4 @@
-### Hi there 👋, This is Ahana Akhter, Working since 2019.
+### Hi there 👋, This is Most Murshida Khatun, Working since 2019.
 #### I am Front-end Developer 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
 
@@ -11,9 +11,10 @@ I've perfectly mastered a number of technologies such as:
 💡 HTML / CSS
 💡 JavaScript
 💡 React.js
+💡 Next.js with Prisma
 💡 WordPress
-💡 Wix
-💡 Material UI
+💡 Webflow
+💡 TailwindCSS
 💡 Bootstrap 5
 💡 PSD to HTML / Sketch to HTML / Figma to HTML
 
@@ -25,7 +26,7 @@ What to expect:
 ✔ Ongoing support and availability
 ✔ Immediate communication
 
-Skills: HTML / CSS / JavaScript / React.js / Wix / WordPress / Figma /
+Skills: HTML / CSS / JavaScript / React.js / Next.js / Prisma / Webflow / Wix / WordPress / Figma /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React.js 
