@@ -3,7 +3,7 @@
 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
 
-Welcome to my profile. I'm Ahana Akhter.
+Welcome to my profile. I'm Murshida.
 I have 3+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
 
 Strategy - The best start of a project is planning of scope of work. It's okay to create a list of Technical Tasks for a small project. However, large enterprise systems require a well-grounded specification from a professional business analyst or I can help with this.
