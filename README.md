@@ -1,59 +1,49 @@
+# Hi there, I'm Murshida K 👋
 
-<h3 align="center">I am A passionate Web Developer from Bangladesh. Working since 2019.</h3>
+<a href="https://www.linkedin.com/in/murshida2023/"><img src="https://img.shields.io/badge/LinkedIn-murshida2023-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
+I'm a passionate and dedicated Full Stack Web Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I thrive on building responsive, user-friendly, and scalable web applications from the ground up.
 
-Welcome to my profile!!
-I have 4+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
+My journey through the Programming Hero web development course and my Computer Science degree has given me a strong foundation in both front-end and back-end technologies. I love the challenge of solving complex problems and I'm always eager to learn and adapt to the latest industry trends.
 
-Strategy - The best start of a project is planning of scope of work. It's okay to create a list of Technical Tasks for a small project. However, large enterprise systems require a well-grounded specification from a professional business analyst or I can help with this.
+- 🌱 I’m currently deepening my knowledge in advanced state management and API security.
+- 🚀 I’m actively seeking a **Full-Stack or Frontend Developer role** where I can contribute to meaningful projects and grow with a team.
+- 📫 How to reach me: **murshidayeasmin.dev@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/murshida2023/).
 
-I've perfectly mastered a number of technologies such as:
-💡 HTML / CSS
-💡 JavaScript
-💡 React.js
-💡 Next.js with Prisma
-💡 WordPress
-💡 Webflow
-💡 TailwindCSS
-💡 Bootstrap 5
-💡 PSD to HTML / Sketch to HTML / Figma to HTML
+---
 
-What to expect:
-✔ High-quality clean code and design
-✔ Responsiveness / Mobile-first development / Pixel-perfect development
-✔ Cross Browser compatibility (chrome, firefox)
-✔ Fast delivery
-✔ Ongoing support and availability
-✔ Immediate communication
+### 🛠️ My Tech Stack
 
-Skills: HTML / CSS / JavaScript / React.js / Next.js / Prisma / Webflow / Wix / WordPress / Figma /
+Here are the technologies I work with:
 
-- 🌱 I’m currently learning **NextJS & Prisma**
+| Frontend                                                                                                                                                                                          | Backend                                                                                                                                             | Database                                                                                                                  | Tools & Platforms                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=react,redux,javascript,html,css" />                                                                                                                      | <img src="https://skillicons.dev/icons?i=nodejs,express" />                                                                                         | <img src="https://skillicons.dev/icons?i=mongodb" />                                                                      | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,heroku,netlify" />                                                                                                      |
+| <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />                                                                                                                             | &nbsp;                                                                                                                                              | &nbsp;                                                                                                                    | &nbsp;                                                                                                                                                                                            |
 
-- 👨‍💻 All of my projects are available at [https://github.com/talentdev285](https://github.com/talentdev285)
+---
 
-- 📫 How to reach me **talentdev285@gmail.com**
+### 🚀 My Projects
 
+Here are a few projects I've worked on. Be sure to check them out!
 
-<h3 align="left">Languages and Tools I working with:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- 
+    IMPORTANT: 
+    1.  Replace the project descriptions with your own.
+    2.  Add the LIVE DEMO link after you deploy them (using Vercel, Netlify, or Heroku). This is the most important part!
+    3.  Make sure the repo link is correct.
+-->
 
+| Project                                                      | Description                                                                                             | Tech Stack                                                     | Links                                                                                                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 🛍️ **E-Commerce Site**                                        | A full-stack e-commerce application with user authentication, product catalog, shopping cart, and checkout. | React, Redux, Node.js, Express, MongoDB, JWT                   | [Frontend Repo](https://github.com/talentdev285/e-commerce-frontend) \| [Backend Repo](https://github.com/talentdev285/e-commerce-backend) |
+| ☀️ **Weather App**                                            | A clean, responsive weather application that provides real-time weather data for any city using a third-party API. | React, CSS, OpenWeatherMap API                                 | [Live Demo](https://github.com/talentdev285/weather-app) \| [Repo](https://github.com/talentdev285/weather-app)                      |
+| 🧑‍💻 **Developer Portfolio**                                   | My personal portfolio website to showcase my skills, projects, and professional background.           | HTML, CSS, JavaScript (or React)                               | [Live Demo](https://github.com/talentdev285/portfolio) \| [Repo](https://github.com/talentdev285/portfolio)                          |
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talentdev285)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahana-akhter-85ab31263/) 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 📊 My GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MonoTech71)](https://github.com/ryo-ma/github-profile-trophy)
+![Murshida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talentdev285&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev285)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonoTech71&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talentdev285)  
-
-![GitHub metrics](https://metrics.lecoq.io/talentdev285)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=talentdev285)  
-
-![Profile views](https://gpvc.arturio.dev/talentdev285) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev285&layout=compact&theme=radical&hide_border=true)
