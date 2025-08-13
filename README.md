@@ -8,7 +8,7 @@ My journey through the Programming Hero web development course and my Computer S
 
 - 🌱 I’m currently deepening my knowledge in advanced state management and API security.
 - 🚀 I’m actively seeking a **Full-Stack or Frontend Developer role** where I can contribute to meaningful projects and grow with a team.
-- 📫 How to reach me: **murshidayeasmin.dev@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/murshida2023/).
+- 📫 How to reach me: **talentdev285@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/murshida2023/).
 
 ---
 
